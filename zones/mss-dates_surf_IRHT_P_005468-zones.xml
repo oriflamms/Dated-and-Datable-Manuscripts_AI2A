@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Image zones for alignements_mss_</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Oriflamms project</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from A2iA image segmentation data</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change xml:id="auto">Automatic alignment</change>
+            <change xml:id="manual">Manual alignment correction</change>
+            <change when="2015-12-02">File created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="img/">
+        <surface xml:id="surf_IRHT_P_005468">
+            <graphic url="IRHT_P_005468.tif"/>
+            <zone type="page" xml:id="zone-page_IRHT_P_005468" ulx="131" uly="41" lrx="1266" lry="1800">
+                <zone type="column" xml:id="zone-col_IRHT_P_005468_1" ulx="131" uly="41" lrx="1266" lry="1800">
+                    <zone type="line" xml:id="zone-line_IRHT_P_005468_1-1" ulx="138" uly="51" lrx="1216" lry="175" change="#auto">
+                        <zone type="word" ulx="142" uly="51" lrx="245" lry="175" xml:id="zone-word_w_mss-dates_568" change="#auto" points="142,51 141,60 141,68 142,71 142,74 141,77 142,81 141,93 140,98 142,102 143,106 141,111 141,130 141,138 142,142 137,150 135,155 143,164 141,169 142,175 245,175 244,173 244,168 244,153 244,147 245,144 244,140 243,135 242,131 243,123 247,118 245,115 245,111 246,107 245,103 247,99 245,95 247,91 246,87 245,80 245,73 247,69 246,66 247,62 246,59 248,55 245,51">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_568_1" ulx="142" uly="51" lrx="190" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_568_2" ulx="170" uly="51" lrx="218" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_568_3" ulx="198" uly="51" lrx="245" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_568_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_568_2+"/>
+                        </zone>
+                        <zone type="word" ulx="240" uly="51" lrx="501" lry="175" xml:id="zone-word_w_mss-dates_569" change="#auto" points="240,51 247,58 248,61 246,66 247,69 245,73 244,79 245,82 244,87 243,91 245,96 243,100 246,108 243,112 242,119 242,123 241,130 241,134 241,137 241,143 242,150 240,154 243,159 240,164 241,169 240,175 501,175 500,174 501,167 500,164 500,155 501,152 503,148 502,143 500,139 508,130 508,126 506,122 500,109 497,105 497,102 499,99 498,95 500,84 501,81 501,75 499,71 502,65 501,53 501,51">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_569_1" ulx="240" uly="51" lrx="292" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_569_2" ulx="272" uly="51" lrx="334" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_569_3" ulx="314" uly="51" lrx="380" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_569_4" ulx="361" uly="51" lrx="408" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_569_5" ulx="389" uly="51" lrx="441" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_569_6" ulx="421" uly="51" lrx="473" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_569_7" ulx="454" uly="51" lrx="501" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_569_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_569_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_569_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_569_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_569_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_569_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_569_7+"/>
+                        </zone>
+                        <zone type="word" ulx="491" uly="51" lrx="543" lry="175" xml:id="zone-word_w_mss-dates_570" change="#auto" points="491,51 492,53 491,56 492,60 490,64 490,70 490,77 490,85 489,92 491,96 492,102 480,116 488,130 486,134 491,140 490,144 492,154 490,168 491,175 543,175 542,171 543,168 543,165 543,160 541,157 542,150 542,144 544,140 540,134 542,130 542,127 543,121 542,118 543,113 550,102 543,90 543,85 541,81 544,77 543,73 542,70 544,66 542,59 545,56 543,51">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_570_1" ulx="491" uly="51" lrx="543" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_570_1+"/>
+                        </zone>
+                        <zone type="word" ulx="533" uly="51" lrx="696" lry="175" xml:id="zone-word_w_mss-dates_571" change="#auto" points="533,51 534,53 531,57 534,62 533,65 532,70 533,74 532,78 534,85 533,88 533,91 532,95 541,108 534,115 543,124 534,134 534,137 533,141 534,146 532,156 531,162 535,167 533,172 533,175 696,175 695,174 697,165 696,158 697,154 696,146 697,142 696,138 693,132 691,129 692,123 702,109 702,104 695,96 710,80 709,77 705,72 706,69 704,64 696,51">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_571_1" ulx="533" uly="51" lrx="580" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_571_2" ulx="561" uly="51" lrx="613" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_571_3" ulx="593" uly="51" lrx="641" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_571_4" ulx="621" uly="51" lrx="669" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_571_5" ulx="649" uly="51" lrx="696" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_571_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_571_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_571_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_571_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_571_5+"/>
+                        </zone>
+                        <zone type="word" ulx="695" uly="51" lrx="827" lry="175" xml:id="zone-word_w_mss-dates_572" change="#auto" points="695,51 696,53 704,64 706,69 705,72 709,77 710,80 695,96 702,104 702,109 692,123 691,129 693,132 696,138 693,145 695,149 693,154 695,159 696,162 693,165 695,169 696,172 695,175 827,175 826,174 828,168 826,165 826,149 826,146 826,140 827,136 827,132 830,123 827,115 829,110 829,106 828,97 827,93 825,89 827,83 829,79 826,74 827,69 825,65 827,60 825,55 827,51">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_572_1" ulx="695" uly="51" lrx="743" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_572_2" ulx="723" uly="51" lrx="771" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_572_3" ulx="751" uly="51" lrx="799" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_572_4" ulx="779" uly="51" lrx="827" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_572_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_572_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_572_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_572_4+"/>
+                        </zone>
+                        <zone type="word" ulx="816" uly="51" lrx="896" lry="175" xml:id="zone-word_w_mss-dates_573" change="#auto" points="816,51 815,67 815,75 817,81 816,85 815,93 826,108 824,112 829,125 821,138 815,147 816,153 815,162 817,170 816,175 896,175 896,161 895,158 895,153 895,144 895,138 895,133 896,129 894,119 896,110 898,104 895,98 895,87 895,81 895,57 896,51">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_573_1" ulx="816" uly="51" lrx="864" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_573_2" ulx="844" uly="51" lrx="896" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_573_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_573_2+"/>
+                        </zone>
+                        <zone type="word" ulx="886" uly="51" lrx="999" lry="175" xml:id="zone-word_w_mss-dates_574" change="#auto" points="886,51 886,53 885,84 887,96 891,103 893,108 894,111 892,114 891,121 894,125 896,130 886,142 885,145 885,152 885,156 884,161 886,165 884,170 886,174 886,175 999,175 1000,161 1000,156 999,152 999,148 995,143 997,139 997,129 995,126 998,121 997,117 994,112 995,104 998,94 999,88 997,82 998,72 999,51">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_574_1" ulx="886" uly="51" lrx="943" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_574_2" ulx="923" uly="51" lrx="971" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_574_3" ulx="951" uly="51" lrx="999" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_574_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_574_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_574_3+"/>
+                        </zone>
+                        <zone type="word" ulx="988" uly="51" lrx="1175" lry="175" xml:id="zone-word_w_mss-dates_575" change="#auto" points="988,51 987,58 986,61 988,65 987,81 988,86 986,89 988,93 991,100 993,105 987,114 988,118 989,121 987,139 987,151 987,163 988,175 1175,175 1175,172 1180,162 1176,158 1174,129 1174,124 1186,110 1176,99 1176,61 1175,51">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_575_1" ulx="988" uly="51" lrx="1036" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_575_2" ulx="1016" uly="51" lrx="1064" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_575_3" ulx="1044" uly="51" lrx="1092" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_575_4" ulx="1072" uly="51" lrx="1120" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_575_5" ulx="1100" uly="51" lrx="1148" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_575_6" ulx="1128" uly="51" lrx="1175" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_575_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_575_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_575_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_575_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_575_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_575_6+"/>
+                        </zone>
+                        <zone type="word" ulx="1165" uly="51" lrx="1213" lry="175" xml:id="zone-word_w_mss-dates_576" change="#auto" points="1165,51 1164,72 1165,76 1165,82 1164,85 1166,94 1171,104 1168,112 1166,118 1165,122 1166,125 1166,130 1167,133 1165,137 1164,162 1160,167 1166,174 1165,175 1213,175 1212,169 1212,165 1212,144 1212,140 1213,128 1211,124 1214,120 1212,117 1214,113 1213,110 1215,106 1214,101 1213,97 1212,92 1212,59 1213,51">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_576_1" ulx="1165" uly="51" lrx="1213" lry="175"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_576_1+"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_IRHT_P_005468_1-2" ulx="232" uly="167" lrx="1185" lry="274" change="#auto">
+                        <zone type="word" ulx="284" uly="167" lrx="353" lry="274" xml:id="zone-word_w_mss-dates_577" change="#auto" points="284,167 284,169 284,172 283,183 285,192 282,198 288,205 291,211 284,221 274,233 272,237 284,253 282,256 284,259 285,264 284,274 353,274 353,258 351,254 353,250 343,239 343,235 350,224 354,215 352,209 354,205 354,202 353,198 353,195 353,191 354,187 354,180 352,175 353,169 353,167">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_577_1" ulx="284" uly="167" lrx="325" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_577_2" ulx="308" uly="167" lrx="353" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_577_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_577_2+"/>
+                        </zone>
+                        <zone type="word" ulx="344" uly="167" lrx="582" lry="274" xml:id="zone-word_w_mss-dates_578" change="#auto" points="344,167 345,174 343,185 343,192 345,207 348,213 350,222 343,235 343,239 344,242 345,247 343,250 343,259 342,263 344,267 344,270 343,273 344,274 582,274 583,269 581,261 582,249 573,238 574,234 572,230 575,225 581,215 581,212 585,207 582,201 584,197 580,192 583,187 581,183 581,177 583,171 582,167">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_578_1" ulx="344" uly="167" lrx="397" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_578_2" ulx="380" uly="167" lrx="429" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_578_3" ulx="412" uly="167" lrx="461" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_578_4" ulx="444" uly="167" lrx="485" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_578_5" ulx="468" uly="167" lrx="525" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_578_6" ulx="508" uly="167" lrx="549" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_578_7" ulx="532" uly="167" lrx="582" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_578_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_578_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_578_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_578_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_578_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_578_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_578_7+"/>
+                        </zone>
+                        <zone type="word" ulx="573" uly="167" lrx="678" lry="274" xml:id="zone-word_w_mss-dates_579" change="#auto" points="573,167 572,170 573,174 574,185 572,196 574,201 574,206 573,209 573,214 575,218 573,221 575,225 572,230 574,234 574,246 573,249 574,253 574,260 572,264 573,274 678,274 677,270 677,267 679,256 677,249 678,239 675,235 677,228 679,224 676,220 679,209 677,204 678,198 679,194 677,173 679,169 678,167">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_579_1" ulx="573" uly="167" lrx="622" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_579_2" ulx="605" uly="167" lrx="654" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_579_3" ulx="637" uly="167" lrx="678" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_579_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_579_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_579_3+"/>
+                        </zone>
+                        <zone type="word" ulx="673" uly="167" lrx="802" lry="274" xml:id="zone-word_w_mss-dates_580" change="#auto" points="673,167 671,177 674,181 673,186 674,194 674,201 672,205 672,210 670,217 675,224 673,230 674,233 674,238 671,244 673,248 672,253 674,264 673,274 802,274 803,273 803,268 794,258 794,252 796,247 793,243 793,240 793,236 795,231 795,228 789,221 801,206 801,202 803,199 801,196 802,192 803,188 801,172 802,167">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_580_1" ulx="673" uly="167" lrx="722" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_580_2" ulx="705" uly="167" lrx="746" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_580_3" ulx="729" uly="167" lrx="778" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_580_4" ulx="761" uly="167" lrx="802" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_580_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_580_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_580_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_580_4+"/>
+                        </zone>
+                        <zone type="word" ulx="805" uly="167" lrx="854" lry="274" xml:id="zone-word_w_mss-dates_581" change="#auto" points="805,167 805,169 806,198 802,207 789,221 795,228 795,231 793,236 793,240 793,243 796,247 794,252 805,267 807,272 805,274 854,274 854,262 854,259 854,255 854,247 853,243 848,232 849,226 852,221 846,213 853,205 854,199 854,194 860,184 859,177 854,167">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_581_1" ulx="805" uly="167" lrx="854" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_581_1+"/>
+                        </zone>
+                        <zone type="word" ulx="845" uly="167" lrx="1163" lry="274" xml:id="zone-word_w_mss-dates_582" change="#auto" points="845,167 860,183 858,187 845,204 846,212 844,218 844,224 845,227 846,237 846,240 844,245 846,266 845,274 1163,274 1162,254 1162,241 1163,238 1164,233 1164,228 1164,224 1163,190 1162,186 1171,176 1163,167">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_582_1" ulx="845" uly="167" lrx="887" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_582_2" ulx="869" uly="167" lrx="923" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_582_3" ulx="906" uly="167" lrx="947" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_582_4" ulx="930" uly="167" lrx="975" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_582_5" ulx="958" uly="167" lrx="1007" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_582_6" ulx="990" uly="167" lrx="1043" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_582_7" ulx="1026" uly="167" lrx="1075" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_582_8" ulx="1058" uly="167" lrx="1111" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_582_9" ulx="1094" uly="167" lrx="1135" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_582_10" ulx="1118" uly="167" lrx="1163" lry="274"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_582_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_582_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_582_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_582_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_582_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_582_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_582_7+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_582_8+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_582_9+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_582_10+"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_IRHT_P_005468_1-3" ulx="230" uly="273" lrx="1189" lry="373" change="#auto">
+                        <zone type="word" ulx="230" uly="273" lrx="463" lry="373" xml:id="zone-word_w_mss-dates_583" change="#auto" points="230,273 229,288 229,312 224,318 228,322 229,325 230,329 227,334 226,337 229,342 230,348 230,373 463,373 464,361 463,343 456,327 453,324 455,320 469,299 465,290 464,279 463,273">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_583_1" ulx="230" uly="273" lrx="283" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_583_2" ulx="267" uly="273" lrx="320" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_583_3" ulx="305" uly="273" lrx="362" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_583_4" ulx="346" uly="273" lrx="384" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_583_5" ulx="368" uly="273" lrx="407" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_583_6" ulx="391" uly="273" lrx="437" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_583_7" ulx="421" uly="273" lrx="463" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_583_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_583_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_583_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_583_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_583_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_583_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_583_7+"/>
+                        </zone>
+                        <zone type="word" ulx="455" uly="273" lrx="722" lry="373" xml:id="zone-word_w_mss-dates_584" change="#auto" points="455,273 454,282 456,285 466,297 455,311 453,316 455,321 453,324 455,328 454,331 454,336 454,340 456,347 455,373 722,373 723,371 721,368 721,357 723,352 722,346 722,342 724,339 721,331 723,323 723,318 721,315 723,309 721,302 721,296 723,282 721,276 722,273">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_584_1" ulx="455" uly="273" lrx="493" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_584_2" ulx="477" uly="273" lrx="523" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_584_3" ulx="507" uly="273" lrx="545" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_584_4" ulx="530" uly="273" lrx="572" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_584_5" ulx="556" uly="273" lrx="605" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_584_6" ulx="590" uly="273" lrx="635" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_584_7" ulx="620" uly="273" lrx="669" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_584_8" ulx="653" uly="273" lrx="699" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_584_9" ulx="683" uly="273" lrx="722" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_584_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_584_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_584_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_584_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_584_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_584_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_584_7+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_584_8+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_584_9+"/>
+                        </zone>
+                        <zone type="word" ulx="755" uly="273" lrx="1183" lry="373" xml:id="zone-word_w_mss-dates_585" change="#auto" points="755,273 754,281 756,286 754,295 754,298 754,303 753,307 755,311 755,315 756,318 754,322 756,327 754,333 756,337 754,343 756,348 757,357 755,361 756,366 757,369 755,373 1183,373 1182,334 1183,307 1192,296 1195,286 1183,273">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_1" ulx="755" uly="273" lrx="812" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_2" ulx="796" uly="273" lrx="845" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_3" ulx="830" uly="273" lrx="883" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_4" ulx="867" uly="273" lrx="920" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_5" ulx="905" uly="273" lrx="950" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_6" ulx="935" uly="273" lrx="984" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_7" ulx="968" uly="273" lrx="1010" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_8" ulx="995" uly="273" lrx="1040" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_9" ulx="1025" uly="273" lrx="1078" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_10" ulx="1062" uly="273" lrx="1108" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_11" ulx="1092" uly="273" lrx="1130" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_12" ulx="1115" uly="273" lrx="1183" lry="373"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_7+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_8+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_9+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_10+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_11+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_585_12+"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_IRHT_P_005468_1-4" ulx="230" uly="372" lrx="1224" lry="483" change="#auto">
+                        <zone type="word" ulx="230" uly="372" lrx="322" lry="483" xml:id="zone-word_w_mss-dates_586" change="#auto" points="230,372 229,378 228,387 230,391 229,414 227,421 225,425 223,431 224,435 230,448 229,454 230,457 230,460 229,464 229,467 228,479 230,483 322,483 321,480 322,474 315,460 319,454 317,450 317,447 318,443 320,438 322,435 321,432 320,428 320,424 310,414 319,403 315,397 313,393 315,390 315,385 314,382 322,372">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_586_1" ulx="230" uly="372" lrx="272" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_586_2" ulx="254" uly="372" lrx="297" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_586_3" ulx="279" uly="372" lrx="322" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_586_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_586_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_586_3+"/>
+                        </zone>
+                        <zone type="word" ulx="313" uly="372" lrx="355" lry="483" xml:id="zone-word_w_mss-dates_587" change="#auto" points="313,372 313,374 311,379 314,382 313,385 312,396 314,404 299,425 297,430 299,435 313,452 312,456 310,460 311,463 312,466 313,471 312,474 313,478 314,482 313,483 355,483 354,477 356,468 355,460 358,456 357,452 356,448 354,445 357,437 358,425 355,420 359,416 357,412 359,406 358,402 360,396 355,384 354,380 355,372">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_587_1" ulx="313" uly="372" lrx="355" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_587_1+"/>
+                        </zone>
+                        <zone type="word" ulx="346" uly="372" lrx="439" lry="483" xml:id="zone-word_w_mss-dates_588" change="#auto" points="346,372 345,385 335,400 338,406 341,414 339,418 338,425 338,432 338,437 343,446 345,450 344,453 346,456 346,461 345,470 345,479 346,483 439,483 440,481 438,473 438,463 439,449 434,441 435,438 437,435 434,432 435,429 436,425 434,418 433,413 435,409 435,406 439,397 437,393 440,390 439,381 437,377 439,372">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_588_1" ulx="346" uly="372" lrx="389" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_588_2" ulx="371" uly="372" lrx="414" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_588_3" ulx="396" uly="372" lrx="439" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_588_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_588_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_588_3+"/>
+                        </zone>
+                        <zone type="word" ulx="429" uly="372" lrx="663" lry="483" xml:id="zone-word_w_mss-dates_589" change="#auto" points="429,372 428,386 430,389 428,402 431,411 432,414 433,420 432,424 429,428 429,432 431,436 431,441 429,445 428,448 428,454 428,472 429,475 429,483 663,483 662,481 662,469 662,461 662,451 662,448 663,443 669,435 669,430 672,425 668,415 668,411 662,401 662,397 664,390 663,387 666,383 663,379 665,375 663,372">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_589_1" ulx="429" uly="372" lrx="472" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_589_2" ulx="454" uly="372" lrx="497" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_589_3" ulx="479" uly="372" lrx="526" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_589_4" ulx="508" uly="372" lrx="551" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_589_5" ulx="533" uly="372" lrx="584" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_589_6" ulx="567" uly="372" lrx="613" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_589_7" ulx="596" uly="372" lrx="638" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_589_8" ulx="621" uly="372" lrx="663" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_589_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_589_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_589_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_589_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_589_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_589_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_589_7+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_589_8+"/>
+                        </zone>
+                        <zone type="word" ulx="654" uly="372" lrx="901" lry="483" xml:id="zone-word_w_mss-dates_590" change="#auto" points="654,372 662,386 654,395 668,410 668,413 667,417 672,425 669,430 654,451 653,466 655,475 654,483 901,483 902,476 900,466 902,461 900,456 900,438 902,435 900,429 902,420 900,416 900,413 902,410 899,406 902,400 900,393 900,389 900,383 902,378 901,372">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_590_1" ulx="654" uly="372" lrx="697" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_590_2" ulx="679" uly="372" lrx="722" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_590_3" ulx="704" uly="372" lrx="747" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_590_4" ulx="729" uly="372" lrx="772" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_590_5" ulx="754" uly="372" lrx="797" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_590_6" ulx="779" uly="372" lrx="822" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_590_7" ulx="804" uly="372" lrx="851" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_590_8" ulx="833" uly="372" lrx="876" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_590_9" ulx="858" uly="372" lrx="901" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_590_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_590_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_590_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_590_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_590_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_590_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_590_7+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_590_8+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_590_9+"/>
+                        </zone>
+                        <zone type="word" ulx="891" uly="372" lrx="1188" lry="483" xml:id="zone-word_w_mss-dates_591" change="#auto" points="891,372 889,377 891,381 891,384 889,396 896,405 901,415 902,420 901,423 900,429 902,435 891,447 890,460 892,477 891,483 1188,483 1187,465 1189,460 1187,457 1188,451 1188,448 1188,442 1187,438 1185,434 1186,430 1187,426 1188,422 1192,417 1189,413 1183,406 1187,402 1188,374 1188,372">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_591_1" ulx="891" uly="372" lrx="934" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_591_2" ulx="916" uly="372" lrx="959" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_591_3" ulx="941" uly="372" lrx="984" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_591_4" ulx="966" uly="372" lrx="1009" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_591_5" ulx="991" uly="372" lrx="1038" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_591_6" ulx="1020" uly="372" lrx="1063" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_591_7" ulx="1045" uly="372" lrx="1096" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_591_8" ulx="1079" uly="372" lrx="1125" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_591_9" ulx="1108" uly="372" lrx="1159" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_591_10" ulx="1141" uly="372" lrx="1188" lry="483"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_591_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_591_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_591_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_591_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_591_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_591_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_591_7+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_591_8+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_591_9+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_591_10+"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_IRHT_P_005468_1-5" ulx="218" uly="476" lrx="1233" lry="574" change="#auto">
+                        <zone type="word" ulx="218" uly="476" lrx="340" lry="574" xml:id="zone-word_w_mss-dates_592" change="#auto" points="218,476 219,486 217,491 218,494 219,498 219,505 217,509 217,515 211,525 217,532 217,536 215,541 217,544 215,550 217,553 217,557 218,561 218,564 218,568 218,574 340,574 339,559 340,554 334,545 331,538 332,535 334,530 341,519 338,515 341,511 339,508 340,496 342,492 341,486 341,480 340,476">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_592_1" ulx="218" uly="476" lrx="255" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_592_2" ulx="240" uly="476" lrx="307" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_592_3" ulx="291" uly="476" lrx="340" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_592_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_592_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_592_3+"/>
+                        </zone>
+                        <zone type="word" ulx="331" uly="476" lrx="564" lry="574" xml:id="zone-word_w_mss-dates_593" change="#auto" points="331,476 330,479 330,484 330,493 332,497 332,502 333,514 334,519 332,524 332,527 331,532 332,536 330,539 331,542 330,550 331,553 332,556 330,563 331,574 564,574 563,573 563,570 563,566 563,561 563,557 564,551 564,548 564,543 563,538 556,530 559,525 563,512 563,505 563,498 563,494 566,490 563,486 564,476">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_593_1" ulx="331" uly="476" lrx="369" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_593_2" ulx="353" uly="476" lrx="399" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_593_3" ulx="383" uly="476" lrx="428" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_593_4" ulx="412" uly="476" lrx="454" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_593_5" ulx="438" uly="476" lrx="490" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_593_6" ulx="475" uly="476" lrx="531" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_593_7" ulx="515" uly="476" lrx="564" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_593_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_593_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_593_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_593_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_593_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_593_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_593_7+"/>
+                        </zone>
+                        <zone type="word" ulx="556" uly="476" lrx="593" lry="574" xml:id="zone-word_w_mss-dates_594" change="#auto" points="556,476 555,486 555,493 556,496 557,500 555,509 555,515 558,518 556,521 556,526 556,530 559,538 560,541 556,548 555,558 555,563 554,568 556,571 556,574 593,574 587,568 595,558 594,552 593,549 594,545 594,542 595,539 593,536 588,529 585,523 587,519 590,514 591,510 593,505 591,501 592,492 593,476">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_594_1" ulx="556" uly="476" lrx="593" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_594_1+"/>
+                        </zone>
+                        <zone type="word" ulx="585" uly="476" lrx="961" lry="574" xml:id="zone-word_w_mss-dates_595" change="#auto" points="585,476 584,480 583,484 585,488 583,493 585,499 584,504 584,515 586,519 575,535 571,540 586,556 585,560 581,570 585,574 961,574 962,572 962,556 961,549 961,544 965,540 960,533 960,527 962,523 958,517 961,513 960,509 960,485 961,476">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_1" ulx="585" uly="476" lrx="623" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_2" ulx="607" uly="476" lrx="645" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_3" ulx="629" uly="476" lrx="667" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_4" ulx="651" uly="476" lrx="707" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_5" ulx="692" uly="476" lrx="740" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_6" ulx="725" uly="476" lrx="762" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_7" ulx="747" uly="476" lrx="795" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_8" ulx="780" uly="476" lrx="818" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_9" ulx="802" uly="476" lrx="840" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_10" ulx="824" uly="476" lrx="862" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_11" ulx="846" uly="476" lrx="884" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_12" ulx="868" uly="476" lrx="906" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_13" ulx="890" uly="476" lrx="931" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_14" ulx="916" uly="476" lrx="961" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_7+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_8+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_9+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_10+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_11+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_12+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_13+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_595_14+"/>
+                        </zone>
+                        <zone type="word" ulx="960" uly="476" lrx="1001" lry="574" xml:id="zone-word_w_mss-dates_596" change="#auto" points="960,476 961,478 959,482 961,488 959,492 960,495 959,499 959,515 960,520 962,524 959,528 965,540 961,544 960,549 958,557 960,561 959,572 960,574 1001,574 1000,556 1002,553 999,546 1000,540 1002,535 1002,531 1000,524 1003,520 1002,516 1000,509 1001,498 1004,494 1003,489 1001,476">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_596_1" ulx="960" uly="476" lrx="1001" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_596_1+"/>
+                        </zone>
+                        <zone type="word" ulx="993" uly="476" lrx="1222" lry="574" xml:id="zone-word_w_mss-dates_597" change="#auto" points="993,476 996,486 1001,491 1002,495 993,505 991,510 1002,521 1000,524 1000,528 1002,531 995,540 999,544 993,551 992,564 993,568 992,573 993,574 1222,574 1221,561 1222,549 1222,545 1218,540 1217,537 1217,533 1220,530 1222,517 1233,503 1223,492 1224,488 1222,476">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_597_1" ulx="993" uly="476" lrx="1031" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_597_2" ulx="1015" uly="476" lrx="1067" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_597_3" ulx="1052" uly="476" lrx="1097" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_597_4" ulx="1081" uly="476" lrx="1126" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_597_5" ulx="1111" uly="476" lrx="1148" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_597_6" ulx="1133" uly="476" lrx="1185" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_597_7" ulx="1169" uly="476" lrx="1222" lry="574"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_597_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_597_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_597_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_597_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_597_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_597_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_597_7+"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_IRHT_P_005468_1-6" ulx="226" uly="572" lrx="1243" lry="667" change="#auto">
+                        <zone type="word" ulx="226" uly="572" lrx="283" lry="667" xml:id="zone-word_w_mss-dates_598" change="#auto" points="226,572 225,581 226,584 225,593 226,597 223,608 220,612 223,616 221,619 223,622 220,627 220,630 227,641 225,646 225,656 227,666 226,667 283,667 284,653 283,646 282,643 282,638 282,632 283,629 285,625 284,616 283,613 286,609 285,606 284,598 284,595 282,590 282,586 282,581 282,577 283,574 283,572">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_598_1" ulx="226" uly="572" lrx="262" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_598_2" ulx="247" uly="572" lrx="283" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_598_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_598_2+"/>
+                        </zone>
+                        <zone type="word" ulx="275" uly="572" lrx="355" lry="667" xml:id="zone-word_w_mss-dates_599" change="#auto" points="275,572 276,583 274,586 276,596 285,606 286,609 283,613 284,616 279,623 281,628 278,632 275,637 274,641 274,645 274,659 275,667 355,667 356,663 354,654 354,643 356,640 350,632 352,623 350,620 351,615 351,611 353,608 354,599 356,596 354,590 356,587 354,577 355,572">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_599_1" ulx="275" uly="572" lrx="312" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_599_2" ulx="297" uly="572" lrx="333" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_599_3" ulx="318" uly="572" lrx="355" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_599_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_599_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_599_3+"/>
+                        </zone>
+                        <zone type="word" ulx="347" uly="572" lrx="440" lry="667" xml:id="zone-word_w_mss-dates_600" change="#auto" points="347,572 349,579 347,583 347,587 346,590 345,595 347,599 353,608 347,615 347,619 348,623 348,634 346,649 346,665 347,667 440,667 441,666 440,662 441,659 439,645 439,638 440,634 434,622 433,618 439,610 440,606 439,602 441,596 441,579 441,575 440,572">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_600_1" ulx="347" uly="572" lrx="383" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_600_2" ulx="368" uly="572" lrx="415" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_600_3" ulx="400" uly="572" lrx="440" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_600_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_600_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_600_3+"/>
+                        </zone>
+                        <zone type="word" ulx="432" uly="572" lrx="522" lry="667" xml:id="zone-word_w_mss-dates_601" change="#auto" points="432,572 432,574 437,583 432,590 432,594 437,608 433,613 432,617 430,622 432,626 433,630 430,635 433,639 432,643 431,648 432,667 522,667 521,649 521,645 523,642 522,637 511,624 520,611 524,604 528,599 530,590 522,580 524,577 522,572">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_601_1" ulx="432" uly="572" lrx="469" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_601_2" ulx="454" uly="572" lrx="497" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_601_3" ulx="482" uly="572" lrx="522" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_601_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_601_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_601_3+"/>
+                        </zone>
+                        <zone type="word" ulx="514" uly="572" lrx="647" lry="667" xml:id="zone-word_w_mss-dates_602" change="#auto" points="514,572 513,577 505,591 512,599 513,604 514,608 513,618 511,622 510,625 514,629 512,632 515,637 512,646 514,650 513,654 515,663 514,667 647,667 646,663 648,655 647,638 647,635 646,630 647,626 643,621 647,612 646,607 647,589 646,586 648,580 647,572">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_602_1" ulx="514" uly="572" lrx="551" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_602_2" ulx="535" uly="572" lrx="572" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_602_3" ulx="557" uly="572" lrx="593" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_602_4" ulx="578" uly="572" lrx="618" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_602_5" ulx="603" uly="572" lrx="647" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_602_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_602_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_602_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_602_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_602_5+"/>
+                        </zone>
+                        <zone type="word" ulx="657" uly="572" lrx="732" lry="667" xml:id="zone-word_w_mss-dates_603" change="#auto" points="657,572 657,574 658,578 656,584 656,588 655,596 657,599 662,610 657,621 656,627 657,631 658,639 658,646 656,654 658,659 657,667 732,667 733,662 731,649 733,640 732,636 733,633 732,630 735,624 734,619 731,615 733,611 732,607 733,604 732,600 732,595 729,589 732,585 730,582 733,579 732,574 732,572">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_603_1" ulx="657" uly="572" lrx="704" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_603_2" ulx="689" uly="572" lrx="732" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_603_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_603_2+"/>
+                        </zone>
+                        <zone type="word" ulx="731" uly="572" lrx="875" lry="667" xml:id="zone-word_w_mss-dates_604" change="#auto" points="731,572 731,574 733,579 730,583 729,586 729,589 731,593 730,597 729,604 731,608 732,613 734,619 735,624 730,632 731,635 730,640 730,650 732,654 732,663 731,667 875,667 875,664 867,656 869,652 874,645 874,638 877,634 875,631 883,621 882,618 884,613 882,607 880,602 877,598 875,585 873,581 875,572">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_604_1" ulx="731" uly="572" lrx="768" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_604_2" ulx="753" uly="572" lrx="796" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_604_3" ulx="781" uly="572" lrx="832" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_604_4" ulx="817" uly="572" lrx="853" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_604_5" ulx="838" uly="572" lrx="875" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_604_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_604_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_604_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_604_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_604_5+"/>
+                        </zone>
+                        <zone type="word" ulx="874" uly="572" lrx="1114" lry="667" xml:id="zone-word_w_mss-dates_605" change="#auto" points="874,572 873,582 875,596 880,602 882,607 884,613 882,618 883,621 874,632 875,636 872,648 869,652 867,656 875,664 874,667 1114,667 1115,663 1113,650 1113,647 1114,630 1116,626 1117,622 1119,619 1118,616 1120,612 1118,607 1115,601 1113,595 1114,592 1112,588 1113,583 1114,572">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_605_1" ulx="874" uly="572" lrx="910" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_605_2" ulx="895" uly="572" lrx="939" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_605_3" ulx="924" uly="572" lrx="960" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_605_4" ulx="945" uly="572" lrx="982" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_605_5" ulx="967" uly="572" lrx="1014" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_605_6" ulx="999" uly="572" lrx="1060" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_605_7" ulx="1045" uly="572" lrx="1089" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_605_8" ulx="1073" uly="572" lrx="1114" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_605_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_605_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_605_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_605_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_605_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_605_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_605_7+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_605_8+"/>
+                        </zone>
+                        <zone type="word" ulx="1105" uly="572" lrx="1174" lry="667" xml:id="zone-word_w_mss-dates_606" change="#auto" points="1105,572 1106,574 1106,579 1104,582 1104,592 1118,609 1120,612 1118,616 1119,619 1117,622 1116,626 1105,639 1106,643 1104,646 1106,651 1104,664 1105,667 1174,667 1175,663 1173,654 1173,642 1173,638 1173,632 1177,624 1179,616 1179,612 1177,605 1173,600 1173,595 1174,591 1179,583 1181,580 1174,572">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_606_1" ulx="1105" uly="572" lrx="1153" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_606_2" ulx="1138" uly="572" lrx="1174" lry="667"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_606_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_606_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_606_3"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_606_4"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_606_5"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_IRHT_P_005468_1-7" ulx="226" uly="661" lrx="1200" lry="770" change="#auto">
+                        <zone type="word" ulx="226" uly="661" lrx="292" lry="770" xml:id="zone-word_w_mss-dates_607" change="#auto" points="226,661 227,666 225,679 227,690 225,698 224,701 226,704 221,713 220,720 219,725 227,740 225,746 225,750 225,757 226,761 227,766 226,770 292,770 291,768 292,765 290,761 291,756 293,748 292,738 290,731 285,725 286,721 287,718 287,714 287,710 291,698 291,693 291,690 293,687 293,680 291,677 291,673 291,665 292,661">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_607_1" ulx="226" uly="661" lrx="267" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_607_2" ulx="250" uly="661" lrx="292" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_607_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_607_2+"/>
+                        </zone>
+                        <zone type="word" ulx="283" uly="661" lrx="566" lry="770" xml:id="zone-word_w_mss-dates_608" change="#auto" points="283,661 284,670 284,675 281,678 283,682 281,685 283,689 285,698 282,702 284,705 282,708 284,712 282,716 282,726 282,733 283,736 282,740 283,744 282,755 284,758 284,764 284,769 283,770 566,770 567,765 565,746 565,735 569,731 564,724 560,719 561,716 566,705 565,702 565,698 565,691 565,685 567,680 567,677 565,669 566,661">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_608_1" ulx="283" uly="661" lrx="325" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_608_2" ulx="307" uly="661" lrx="357" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_608_3" ulx="340" uly="661" lrx="394" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_608_4" ulx="377" uly="661" lrx="419" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_608_5" ulx="401" uly="661" lrx="443" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_608_6" ulx="426" uly="661" lrx="480" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_608_7" ulx="463" uly="661" lrx="504" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_608_8" ulx="487" uly="661" lrx="529" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_608_9" ulx="512" uly="661" lrx="566" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_608_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_608_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_608_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_608_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_608_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_608_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_608_7+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_608_8+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_608_9+"/>
+                        </zone>
+                        <zone type="word" ulx="585" uly="661" lrx="876" lry="770" xml:id="zone-word_w_mss-dates_609" change="#auto" points="585,661 586,666 584,669 584,677 585,680 584,686 584,690 585,694 586,698 584,701 584,704 586,709 586,712 585,715 584,718 586,721 584,724 586,727 583,733 585,737 584,741 584,754 584,760 584,765 585,770 876,770 876,765 877,762 875,756 876,752 877,749 876,744 882,735 883,732 881,728 881,723 882,718 883,713 883,710 879,703 876,697 876,692 879,686 876,682 878,679 874,674 871,670 876,661">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_609_1" ulx="585" uly="661" lrx="656" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_609_2" ulx="638" uly="661" lrx="692" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_609_3" ulx="675" uly="661" lrx="721" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_609_4" ulx="704" uly="661" lrx="770" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_609_5" ulx="753" uly="661" lrx="815" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_609_6" ulx="798" uly="661" lrx="852" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_609_7" ulx="835" uly="661" lrx="876" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_609_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_609_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_609_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_609_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_609_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_609_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_609_7+"/>
+                        </zone>
+                        <zone type="word" ulx="888" uly="661" lrx="934" lry="770" xml:id="zone-word_w_mss-dates_610" change="#auto" points="888,661 892,667 893,670 891,673 888,680 889,685 889,689 889,692 887,700 887,704 887,712 889,715 889,718 890,725 890,728 887,732 890,738 888,742 886,754 888,758 888,770 934,770 932,768 934,761 928,751 933,738 933,728 933,724 935,721 933,718 934,712 934,708 933,705 932,702 935,690 934,686 936,682 935,678 935,670 934,661">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_610_1" ulx="888" uly="661" lrx="934" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_610_1+"/>
+                        </zone>
+                        <zone type="word" ulx="929" uly="661" lrx="1052" lry="770" xml:id="zone-word_w_mss-dates_611" change="#auto" points="929,661 929,663 934,673 929,680 930,683 928,692 930,698 928,703 933,709 934,712 929,718 931,721 928,724 929,727 928,731 929,734 928,737 928,751 930,756 930,768 929,770 1052,770 1051,767 1051,762 1053,750 1052,741 1052,735 1053,732 1052,728 1051,725 1052,721 1051,718 1052,713 1054,709 1052,697 1051,694 1053,676 1051,672 1053,669 1051,666 1052,661">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_611_1" ulx="929" uly="661" lrx="975" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_611_2" ulx="957" uly="661" lrx="999" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_611_3" ulx="982" uly="661" lrx="1024" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_611_4" ulx="1006" uly="661" lrx="1052" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_611_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_611_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_611_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_611_4+"/>
+                        </zone>
+                        <zone type="word" ulx="1063" uly="661" lrx="1183" lry="770" xml:id="zone-word_w_mss-dates_612" change="#auto" points="1063,661 1062,679 1062,695 1063,699 1062,703 1062,707 1062,711 1065,720 1063,724 1063,729 1064,732 1062,738 1064,745 1064,754 1063,758 1062,768 1063,770 1183,770 1182,768 1184,761 1182,758 1183,753 1184,748 1182,723 1184,698 1183,661">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_612_1" ulx="1063" uly="661" lrx="1109" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_612_2" ulx="1092" uly="661" lrx="1134" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_612_3" ulx="1117" uly="661" lrx="1158" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_612_4" ulx="1141" uly="661" lrx="1183" lry="770"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_612_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_612_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_612_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_612_4+"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_IRHT_P_005468_1-8" ulx="216" uly="765" lrx="1235" lry="861" change="#auto">
+                        <zone type="word" ulx="219" uly="765" lrx="357" lry="861" xml:id="zone-word_w_mss-dates_613" change="#auto" points="219,765 218,784 220,788 218,791 218,809 217,813 219,817 218,821 217,832 211,839 210,843 211,848 211,851 219,861 357,861 356,860 357,840 349,830 350,827 355,819 356,811 357,807 356,804 356,798 356,783 357,765">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_613_1" ulx="219" uly="765" lrx="267" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_613_2" ulx="252" uly="765" lrx="292" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_613_3" ulx="277" uly="765" lrx="332" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_613_4" ulx="316" uly="765" lrx="357" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_613_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_613_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_613_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_613_4+"/>
+                        </zone>
+                        <zone type="word" ulx="352" uly="765" lrx="400" lry="861" xml:id="zone-word_w_mss-dates_614" change="#auto" points="352,765 354,767 352,771 351,783 351,791 354,801 353,804 352,807 352,811 352,814 351,820 351,824 350,827 349,830 351,834 352,838 353,849 352,852 351,858 352,861 400,861 401,849 400,842 400,837 399,833 398,826 398,822 397,816 391,806 393,801 399,788 401,777 401,767 400,765">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_614_1" ulx="352" uly="765" lrx="400" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_614_1+"/>
+                        </zone>
+                        <zone type="word" ulx="392" uly="765" lrx="595" lry="861" xml:id="zone-word_w_mss-dates_615" change="#auto" points="392,765 393,767 393,777 393,781 391,789 391,793 391,805 392,809 391,815 398,826 393,832 392,836 393,840 391,853 392,856 392,861 595,861 595,859 593,855 595,846 597,842 595,838 593,834 595,830 597,826 593,820 595,812 601,804 595,792 594,789 595,784 593,780 596,776 596,770 595,765">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_615_1" ulx="392" uly="765" lrx="429" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_615_2" ulx="414" uly="765" lrx="458" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_615_3" ulx="442" uly="765" lrx="479" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_615_4" ulx="464" uly="765" lrx="508" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_615_5" ulx="493" uly="765" lrx="544" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_615_6" ulx="529" uly="765" lrx="566" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_615_7" ulx="550" uly="765" lrx="595" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_615_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_615_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_615_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_615_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_615_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_615_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_615_7+"/>
+                        </zone>
+                        <zone type="word" ulx="608" uly="765" lrx="800" lry="861" xml:id="zone-word_w_mss-dates_616" change="#auto" points="608,765 607,771 607,776 606,779 608,783 608,787 609,790 607,793 607,801 607,804 606,813 610,818 607,823 606,828 608,832 608,838 607,844 607,852 607,857 608,861 800,861 799,856 801,852 801,848 800,832 804,825 801,817 799,790 799,786 800,781 799,778 800,765">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_616_1" ulx="608" uly="765" lrx="656" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_616_2" ulx="640" uly="765" lrx="702" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_616_3" ulx="687" uly="765" lrx="735" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_616_4" ulx="719" uly="765" lrx="764" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_616_5" ulx="748" uly="765" lrx="800" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_616_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_616_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_616_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_616_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_616_5+"/>
+                        </zone>
+                        <zone type="word" ulx="802" uly="765" lrx="897" lry="861" xml:id="zone-word_w_mss-dates_617" change="#auto" points="802,765 800,770 802,774 803,789 801,795 801,800 803,816 808,823 802,830 803,838 801,854 802,861 897,861 898,848 897,839 895,835 896,828 896,824 897,820 902,814 899,806 897,802 896,799 896,793 896,789 896,786 896,779 898,775 897,767 897,765">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_617_1" ulx="802" uly="765" lrx="843" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_617_2" ulx="827" uly="765" lrx="875" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_617_3" ulx="860" uly="765" lrx="897" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_617_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_617_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_617_3+"/>
+                        </zone>
+                        <zone type="word" ulx="896" uly="765" lrx="1030" lry="861" xml:id="zone-word_w_mss-dates_618" change="#auto" points="896,765 897,777 897,791 895,801 899,807 902,814 895,821 895,835 895,848 896,861 1030,861 1030,859 1029,856 1029,852 1029,846 1029,837 1029,829 1031,826 1030,820 1029,817 1029,811 1030,794 1029,791 1030,775 1030,771 1028,768 1030,765">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_618_1" ulx="896" uly="765" lrx="951" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_618_2" ulx="935" uly="765" lrx="972" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_618_3" ulx="957" uly="765" lrx="1005" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_618_4" ulx="989" uly="765" lrx="1030" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_618_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_618_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_618_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_618_4+"/>
+                        </zone>
+                        <zone type="word" ulx="1033" uly="765" lrx="1102" lry="861" xml:id="zone-word_w_mss-dates_619" change="#auto" points="1033,765 1033,767 1032,770 1032,787 1033,791 1032,796 1032,800 1032,804 1033,807 1033,810 1034,814 1032,819 1034,829 1032,835 1032,839 1032,854 1033,857 1033,861 1102,861 1101,857 1102,853 1100,849 1101,837 1101,830 1104,825 1101,814 1104,808 1108,803 1105,800 1101,789 1102,765">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_619_1" ulx="1033" uly="765" lrx="1077" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_619_2" ulx="1062" uly="765" lrx="1102" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_619_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_619_2+"/>
+                        </zone>
+                        <zone type="word" ulx="1094" uly="765" lrx="1203" lry="861" xml:id="zone-word_w_mss-dates_620" change="#auto" points="1094,765 1093,772 1095,776 1094,779 1093,786 1106,805 1099,814 1098,817 1102,822 1100,827 1094,838 1093,845 1094,861 1203,861 1202,856 1202,853 1203,838 1205,834 1205,829 1203,816 1203,812 1204,809 1202,785 1203,765">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_620_1" ulx="1094" uly="765" lrx="1163" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_620_2" ulx="1148" uly="765" lrx="1203" lry="861"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_620_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_620_2+"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_IRHT_P_005468_1-9" ulx="219" uly="871" lrx="1162" lry="965" change="#auto">
+                        <zone type="word" ulx="219" uly="871" lrx="378" lry="965" xml:id="zone-word_w_mss-dates_621" change="#auto" points="219,871 218,875 214,885 214,888 219,896 218,900 217,906 219,909 219,913 218,917 217,921 219,925 220,933 218,939 218,943 218,948 218,952 218,959 217,962 219,965 378,965 377,959 378,956 377,953 377,949 377,918 378,910 377,907 377,899 378,895 380,892 379,887 377,878 378,873 378,871">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_621_1" ulx="219" uly="871" lrx="255" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_621_2" ulx="240" uly="871" lrx="276" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_621_3" ulx="261" uly="871" lrx="297" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_621_4" ulx="282" uly="871" lrx="325" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_621_5" ulx="310" uly="871" lrx="346" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_621_6" ulx="331" uly="871" lrx="378" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_621_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_621_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_621_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_621_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_621_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_621_6+"/>
+                        </zone>
+                        <zone type="word" ulx="388" uly="871" lrx="621" lry="965" xml:id="zone-word_w_mss-dates_622" change="#auto" points="388,871 388,873 389,877 387,881 387,885 388,889 389,896 389,905 387,909 386,918 385,921 388,930 387,935 387,941 387,956 389,963 388,965 621,965 620,962 620,959 621,942 619,938 621,934 629,921 630,918 630,915 622,901 621,896 623,892 622,887 622,879 621,871">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_622_1" ulx="388" uly="871" lrx="431" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_622_2" ulx="416" uly="871" lrx="452" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_622_3" ulx="437" uly="871" lrx="473" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_622_4" ulx="458" uly="871" lrx="498" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_622_5" ulx="483" uly="871" lrx="533" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_622_6" ulx="518" uly="871" lrx="558" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_622_7" ulx="543" uly="871" lrx="593" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_622_8" ulx="578" uly="871" lrx="621" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_622_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_622_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_622_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_622_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_622_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_622_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_622_7+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_622_8+"/>
+                        </zone>
+                        <zone type="word" ulx="680" uly="871" lrx="748" lry="965" xml:id="zone-word_w_mss-dates_623" change="#auto" points="680,871 687,878 690,883 690,888 691,893 689,897 691,900 688,904 682,914 684,918 672,931 680,940 679,944 681,952 679,959 680,965 748,965 749,961 747,935 748,931 748,926 750,923 747,916 747,909 747,903 748,899 759,886 760,883 748,871">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_623_1" ulx="680" uly="871" lrx="717" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_623_2" ulx="701" uly="871" lrx="748" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_623_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_623_2+"/>
+                        </zone>
+                        <zone type="word" ulx="740" uly="871" lrx="801" lry="965" xml:id="zone-word_w_mss-dates_624" change="#auto" points="740,871 744,876 740,884 742,888 743,892 744,895 744,898 744,903 744,908 743,912 742,915 744,918 747,925 746,928 740,937 741,943 739,946 739,953 740,965 801,965 800,964 800,957 801,949 800,945 801,931 801,927 801,922 800,919 796,911 802,897 802,886 801,871">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_624_1" ulx="740" uly="871" lrx="780" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_624_2" ulx="765" uly="871" lrx="801" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_624_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_624_2+"/>
+                        </zone>
+                        <zone type="word" ulx="797" uly="871" lrx="942" lry="965" xml:id="zone-word_w_mss-dates_625" change="#auto" points="797,871 798,889 799,894 797,898 796,912 797,916 796,920 796,924 796,930 798,937 796,945 796,962 797,965 942,965 942,956 940,952 942,947 941,944 944,940 941,935 943,932 943,928 942,924 943,921 943,918 941,913 944,908 943,905 941,896 943,893 941,888 942,885 943,882 941,875 942,871">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_625_1" ulx="797" uly="871" lrx="850" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_625_2" ulx="835" uly="871" lrx="882" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_625_3" ulx="867" uly="871" lrx="914" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_625_4" ulx="899" uly="871" lrx="942" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_625_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_625_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_625_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_625_4+"/>
+                        </zone>
+                        <zone type="word" ulx="938" uly="871" lrx="1154" lry="965" xml:id="zone-word_w_mss-dates_626" change="#auto" points="938,871 938,873 937,878 937,883 939,888 937,891 936,895 943,905 944,908 939,915 938,919 943,927 940,930 942,933 937,939 937,944 937,950 937,958 938,965 1154,965 1153,957 1153,950 1153,947 1155,943 1155,937 1154,933 1163,915 1167,906 1155,889 1153,885 1153,877 1154,871">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_626_1" ulx="938" uly="871" lrx="988" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_626_2" ulx="973" uly="871" lrx="1037" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_626_3" ulx="1022" uly="871" lrx="1069" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_626_4" ulx="1054" uly="871" lrx="1104" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_626_5" ulx="1089" uly="871" lrx="1154" lry="965"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_626_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_626_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_626_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_626_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_626_5+"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_IRHT_P_005468_1-10" ulx="228" uly="964" lrx="1211" lry="1041" change="#auto">
+                        <zone type="word" ulx="228" uly="964" lrx="563" lry="1041" xml:id="zone-word_w_mss-dates_627" change="#auto" points="228,964 229,968 229,971 226,978 228,982 227,988 227,992 230,995 227,1001 227,1006 224,1013 223,1017 221,1021 223,1025 225,1031 228,1037 228,1041 563,1041 562,1029 563,1023 563,1020 564,1016 568,1010 565,1004 562,999 561,996 564,991 562,986 563,977 563,974 563,971 564,967 563,964">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_1" ulx="228" uly="964" lrx="260" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_2" ulx="248" uly="964" lrx="289" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_3" ulx="277" uly="964" lrx="327" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_4" ulx="314" uly="964" lrx="361" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_5" ulx="349" uly="964" lrx="390" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_6" ulx="378" uly="964" lrx="425" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_7" ulx="412" uly="964" lrx="454" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_8" ulx="441" uly="964" lrx="483" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_9" ulx="470" uly="964" lrx="500" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_10" ulx="487" uly="964" lrx="537" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_11" ulx="525" uly="964" lrx="563" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_7+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_8+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_9+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_10+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_627_11+"/>
+                        </zone>
+                        <zone type="word" ulx="606" uly="964" lrx="846" lry="1041" xml:id="zone-word_w_mss-dates_628" change="#auto" points="606,964 607,967 605,975 606,979 607,986 607,990 607,994 607,998 605,1005 605,1011 605,1014 605,1020 607,1025 607,1028 606,1041 846,1041 845,1039 847,1032 845,1026 847,1015 846,1008 852,998 854,995 848,987 847,974 845,967 846,964">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_628_1" ulx="606" uly="964" lrx="647" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_628_2" ulx="635" uly="964" lrx="682" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_628_3" ulx="669" uly="964" lrx="705" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_628_4" ulx="692" uly="964" lrx="728" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_628_5" ulx="715" uly="964" lrx="751" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_628_6" ulx="739" uly="964" lrx="786" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_628_7" ulx="773" uly="964" lrx="818" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_628_8" ulx="805" uly="964" lrx="846" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_628_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_628_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_628_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_628_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_628_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_628_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_628_7+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_628_8+"/>
+                        </zone>
+                        <zone type="word" ulx="845" uly="964" lrx="982" lry="1041" xml:id="zone-word_w_mss-dates_629" change="#auto" points="845,964 844,967 843,975 845,979 854,995 852,998 845,1009 846,1012 846,1015 846,1021 846,1024 845,1027 846,1030 845,1041 982,1041 982,1038 987,1032 987,1029 981,1019 982,1013 984,1007 987,1004 983,999 982,986 981,983 982,980 982,977 981,973 984,968 982,964">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_629_1" ulx="845" uly="964" lrx="878" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_629_2" ulx="866" uly="964" lrx="904" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_629_3" ulx="892" uly="964" lrx="927" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_629_4" ulx="915" uly="964" lrx="953" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_629_5" ulx="941" uly="964" lrx="982" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_629_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_629_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_629_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_629_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_629_5+"/>
+                        </zone>
+                        <zone type="word" ulx="990" uly="964" lrx="1141" lry="1041" xml:id="zone-word_w_mss-dates_630" change="#auto" points="990,964 989,966 991,971 988,980 990,984 989,991 988,997 987,1001 990,1006 992,1011 995,1017 993,1022 994,1025 990,1032 990,1041 1141,1041 1140,1038 1149,1028 1148,1024 1141,1015 1144,1010 1147,1003 1140,993 1142,989 1140,986 1142,983 1140,972 1140,968 1141,964">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_630_1" ulx="990" uly="964" lrx="1023" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_630_2" ulx="1010" uly="964" lrx="1051" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_630_3" ulx="1039" uly="964" lrx="1083" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_630_4" ulx="1071" uly="964" lrx="1106" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_630_5" ulx="1094" uly="964" lrx="1141" lry="1041"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_630_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_630_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_630_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_630_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_630_5+"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_IRHT_P_005468_1-11" ulx="164" uly="1069" lrx="1188" lry="1166" change="#auto">
+                        <zone type="word" ulx="265" uly="1069" lrx="561" lry="1166" xml:id="zone-word_w_mss-dates_631" change="#auto" points="265,1069 266,1076 263,1081 264,1085 265,1088 265,1092 264,1101 266,1104 264,1110 265,1115 269,1123 270,1129 268,1133 266,1139 264,1145 266,1160 264,1164 265,1166 561,1166 562,1163 560,1149 560,1146 561,1141 560,1138 560,1135 562,1131 561,1127 561,1124 559,1121 560,1114 560,1109 560,1103 562,1093 561,1088 556,1079 560,1072 561,1069">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_1" ulx="265" uly="1069" lrx="303" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_2" ulx="287" uly="1069" lrx="335" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_3" ulx="320" uly="1069" lrx="361" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_4" ulx="345" uly="1069" lrx="394" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_5" ulx="378" uly="1069" lrx="415" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_6" ulx="400" uly="1069" lrx="441" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_7" ulx="425" uly="1069" lrx="463" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_8" ulx="447" uly="1069" lrx="485" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_9" ulx="469" uly="1069" lrx="506" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_10" ulx="491" uly="1069" lrx="539" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_11" ulx="524" uly="1069" lrx="561" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_7+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_8+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_9+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_10+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_631_11+"/>
+                        </zone>
+                        <zone type="word" ulx="553" uly="1069" lrx="776" lry="1166" xml:id="zone-word_w_mss-dates_632" change="#auto" points="553,1069 554,1090 553,1094 553,1097 554,1109 555,1116 555,1119 553,1125 552,1137 552,1146 552,1152 553,1166 776,1166 777,1165 775,1159 777,1147 774,1143 775,1138 777,1134 774,1129 777,1119 775,1112 775,1108 777,1105 775,1101 774,1098 776,1090 777,1085 780,1081 775,1076 775,1071 776,1069">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_632_1" ulx="553" uly="1069" lrx="601" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_632_2" ulx="585" uly="1069" lrx="637" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_632_3" ulx="622" uly="1069" lrx="670" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_632_4" ulx="655" uly="1069" lrx="692" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_632_5" ulx="676" uly="1069" lrx="714" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_632_6" ulx="698" uly="1069" lrx="743" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_632_7" ulx="727" uly="1069" lrx="776" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_632_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_632_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_632_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_632_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_632_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_632_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_632_7+"/>
+                        </zone>
+                        <zone type="word" ulx="771" uly="1069" lrx="917" lry="1166" xml:id="zone-word_w_mss-dates_633" change="#auto" points="771,1069 770,1073 777,1083 778,1087 772,1094 771,1098 774,1105 775,1110 772,1114 775,1118 772,1122 770,1127 770,1133 771,1137 770,1142 772,1148 769,1151 771,1155 772,1162 771,1166 917,1166 918,1163 918,1155 916,1147 917,1142 916,1139 917,1134 907,1122 907,1118 917,1106 917,1103 928,1088 919,1078 917,1069">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_633_1" ulx="771" uly="1069" lrx="819" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_633_2" ulx="804" uly="1069" lrx="841" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_633_3" ulx="826" uly="1069" lrx="863" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_633_4" ulx="847" uly="1069" lrx="888" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_633_5" ulx="873" uly="1069" lrx="917" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_633_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_633_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_633_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_633_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_633_5+"/>
+                        </zone>
+                        <zone type="word" ulx="935" uly="1069" lrx="1139" lry="1166" xml:id="zone-word_w_mss-dates_634" change="#auto" points="935,1069 935,1071 933,1084 935,1088 934,1094 934,1098 934,1105 934,1110 936,1118 934,1121 936,1124 934,1127 934,1138 934,1142 934,1145 936,1151 934,1154 936,1157 935,1160 935,1166 1139,1166 1139,1165 1139,1160 1137,1157 1139,1148 1138,1145 1138,1135 1138,1128 1139,1125 1137,1117 1139,1111 1138,1108 1138,1105 1139,1099 1148,1088 1140,1071 1139,1069">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_634_1" ulx="935" uly="1069" lrx="983" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_634_2" ulx="967" uly="1069" lrx="1005" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_634_3" ulx="989" uly="1069" lrx="1027" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_634_4" ulx="1011" uly="1069" lrx="1056" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_634_5" ulx="1040" uly="1069" lrx="1107" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_634_6" ulx="1091" uly="1069" lrx="1139" lry="1166"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_634_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_634_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_634_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_634_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_634_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_634_6+"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_IRHT_P_005468_1-12" ulx="160" uly="1164" lrx="1153" lry="1282" change="#auto">
+                        <zone type="word" ulx="248" uly="1164" lrx="532" lry="1282" xml:id="zone-word_w_mss-dates_635" change="#auto" points="248,1164 249,1177 243,1184 248,1193 246,1201 248,1204 248,1208 247,1211 249,1215 247,1237 247,1245 247,1253 247,1259 247,1269 246,1274 250,1278 248,1282 532,1282 531,1277 532,1273 534,1269 533,1261 531,1252 531,1249 532,1241 532,1237 532,1232 531,1227 531,1221 531,1216 531,1212 531,1209 531,1205 532,1200 531,1197 533,1188 531,1184 532,1180 532,1176 530,1173 531,1167 532,1164">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_635_1" ulx="248" uly="1164" lrx="333" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_635_2" ulx="314" uly="1164" lrx="364" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_635_3" ulx="345" uly="1164" lrx="408" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_635_4" ulx="390" uly="1164" lrx="439" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_635_5" ulx="421" uly="1164" lrx="475" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_635_6" ulx="456" uly="1164" lrx="501" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_635_7" ulx="483" uly="1164" lrx="532" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_635_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_635_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_635_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_635_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_635_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_635_6+"/>
+                        </zone>
+                        <zone type="word" ulx="536" uly="1164" lrx="656" lry="1282" xml:id="zone-word_w_mss-dates_636" change="#auto" points="536,1164 535,1183 534,1187 536,1190 537,1193 537,1200 537,1205 534,1211 536,1215 536,1219 537,1222 535,1225 533,1230 536,1234 535,1245 535,1250 537,1254 536,1257 535,1278 536,1282 656,1282 655,1279 655,1275 657,1272 655,1268 655,1263 656,1260 654,1256 656,1253 658,1249 657,1243 656,1239 655,1236 655,1228 655,1224 657,1221 654,1216 655,1212 656,1207 656,1204 657,1201 655,1198 655,1194 655,1189 655,1186 655,1183 655,1180 656,1164">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_636_1" ulx="536" uly="1164" lrx="594" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_636_2" ulx="575" uly="1164" lrx="630" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_636_3" ulx="611" uly="1164" lrx="656" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_636_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_636_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_636_3+"/>
+                        </zone>
+                        <zone type="word" ulx="660" uly="1164" lrx="784" lry="1282" xml:id="zone-word_w_mss-dates_637" change="#auto" points="660,1164 662,1168 660,1172 660,1176 659,1181 658,1185 660,1189 657,1192 660,1196 661,1199 659,1202 660,1205 661,1208 659,1211 659,1214 661,1219 660,1222 661,1226 658,1230 660,1234 659,1240 660,1243 659,1257 659,1260 660,1263 660,1267 660,1272 662,1275 660,1279 660,1282 784,1282 783,1281 783,1267 783,1263 783,1256 784,1246 784,1242 784,1238 782,1234 785,1227 785,1223 783,1212 783,1207 785,1204 784,1201 789,1195 788,1192 785,1184 785,1176 784,1172 785,1169 784,1164">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_637_1" ulx="660" uly="1164" lrx="722" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_637_2" ulx="704" uly="1164" lrx="753" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_637_3" ulx="735" uly="1164" lrx="784" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_637_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_637_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_637_3+"/>
+                        </zone>
+                        <zone type="word" ulx="775" uly="1164" lrx="957" lry="1282" xml:id="zone-word_w_mss-dates_638" change="#auto" points="775,1164 774,1176 787,1192 784,1196 775,1206 777,1209 775,1213 775,1218 774,1223 775,1227 773,1230 775,1238 774,1241 774,1246 777,1254 775,1258 775,1282 957,1282 956,1281 956,1246 956,1242 958,1238 956,1235 958,1228 956,1221 958,1218 956,1210 958,1206 956,1201 963,1189 956,1178 957,1174 955,1170 956,1166 957,1164">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_638_1" ulx="775" uly="1164" lrx="820" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_638_2" ulx="801" uly="1164" lrx="860" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_638_3" ulx="841" uly="1164" lrx="886" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_638_4" ulx="868" uly="1164" lrx="922" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_638_5" ulx="903" uly="1164" lrx="957" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_638_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_638_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_638_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_638_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_638_5+"/>
+                        </zone>
+                        <zone type="word" ulx="974" uly="1164" lrx="1138" lry="1282" xml:id="zone-word_w_mss-dates_639" change="#auto" points="974,1164 973,1167 973,1172 973,1179 973,1187 973,1190 973,1195 973,1202 973,1206 975,1209 975,1214 976,1218 974,1222 976,1232 974,1236 973,1239 972,1245 973,1248 974,1251 974,1255 973,1258 975,1263 974,1266 975,1272 975,1280 974,1282 1138,1282 1139,1281 1137,1278 1138,1275 1140,1271 1138,1265 1136,1261 1138,1254 1137,1250 1139,1242 1139,1238 1138,1233 1139,1230 1139,1227 1139,1223 1137,1220 1139,1217 1139,1213 1138,1209 1140,1205 1136,1201 1138,1198 1138,1194 1138,1191 1137,1187 1137,1183 1137,1180 1137,1175 1137,1172 1137,1166 1138,1164">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_639_1" ulx="974" uly="1164" lrx="1032" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_639_2" ulx="1014" uly="1164" lrx="1063" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_639_3" ulx="1045" uly="1164" lrx="1103" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_639_4" ulx="1084" uly="1164" lrx="1138" lry="1282"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_639_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_639_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_639_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_639_4+"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_IRHT_P_005468_1-13" ulx="160" uly="1267" lrx="1228" lry="1370" change="#auto">
+                        <zone type="word" ulx="221" uly="1267" lrx="404" lry="1370" xml:id="zone-word_w_mss-dates_640" change="#auto" points="221,1267 222,1276 220,1279 222,1283 220,1290 222,1293 222,1301 220,1309 221,1312 222,1316 222,1319 220,1323 220,1339 220,1343 220,1349 220,1355 221,1370 404,1370 406,1366 403,1358 403,1354 403,1336 403,1327 406,1321 405,1317 401,1312 404,1306 405,1302 404,1296 405,1293 402,1289 404,1279 405,1276 404,1267">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_640_1" ulx="221" uly="1267" lrx="284" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_640_2" ulx="268" uly="1267" lrx="323" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_640_3" ulx="306" uly="1267" lrx="354" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_640_4" ulx="337" uly="1267" lrx="377" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_640_5" ulx="360" uly="1267" lrx="404" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_640_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_640_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_640_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_640_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_640_5+"/>
+                        </zone>
+                        <zone type="word" ulx="414" uly="1267" lrx="609" lry="1370" xml:id="zone-word_w_mss-dates_641" change="#auto" points="414,1267 415,1273 415,1277 415,1289 415,1297 415,1313 411,1317 413,1320 414,1324 415,1328 415,1333 413,1349 413,1355 413,1362 413,1368 414,1370 609,1370 608,1366 610,1361 610,1356 608,1345 610,1340 609,1332 607,1328 609,1325 607,1322 610,1319 610,1315 610,1310 609,1307 606,1303 608,1296 609,1291 612,1287 611,1283 608,1275 609,1269 609,1267">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_641_1" ulx="414" uly="1267" lrx="454" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_641_2" ulx="438" uly="1267" lrx="481" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_641_3" ulx="465" uly="1267" lrx="516" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_641_4" ulx="499" uly="1267" lrx="551" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_641_5" ulx="534" uly="1267" lrx="578" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_641_6" ulx="561" uly="1267" lrx="609" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_641_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_641_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_641_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_641_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_641_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_641_6+"/>
+                        </zone>
+                        <zone type="word" ulx="611" uly="1267" lrx="875" lry="1370" xml:id="zone-word_w_mss-dates_642" change="#auto" points="611,1267 610,1269 612,1275 610,1285 611,1288 611,1291 612,1296 610,1300 610,1305 609,1308 609,1312 611,1315 611,1320 610,1325 611,1329 609,1333 609,1336 611,1340 611,1344 610,1347 612,1351 610,1358 610,1362 612,1365 610,1368 611,1370 875,1370 875,1360 873,1356 874,1351 875,1337 873,1333 877,1326 870,1317 870,1313 887,1294 876,1282 875,1267">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_642_1" ulx="611" uly="1267" lrx="651" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_642_2" ulx="635" uly="1267" lrx="682" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_642_3" ulx="665" uly="1267" lrx="740" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_642_4" ulx="723" uly="1267" lrx="782" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_642_5" ulx="766" uly="1267" lrx="806" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_642_6" ulx="789" uly="1267" lrx="844" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_642_7" ulx="828" uly="1267" lrx="875" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_642_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_642_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_642_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_642_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_642_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_642_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_642_7+"/>
+                        </zone>
+                        <zone type="word" ulx="870" uly="1267" lrx="1018" lry="1370" xml:id="zone-word_w_mss-dates_643" change="#auto" points="870,1267 871,1270 868,1281 861,1288 859,1292 864,1298 870,1308 870,1311 867,1314 867,1319 866,1324 866,1329 870,1335 871,1343 871,1346 869,1349 868,1358 870,1362 870,1370 1018,1370 1017,1367 1017,1359 1017,1349 1019,1343 1018,1333 1018,1329 1016,1326 1018,1318 1018,1314 1016,1311 1025,1301 1025,1298 1025,1295 1018,1281 1016,1277 1017,1272 1018,1269 1018,1267">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_643_1" ulx="870" uly="1267" lrx="910" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_643_2" ulx="893" uly="1267" lrx="945" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_643_3" ulx="928" uly="1267" lrx="983" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_643_4" ulx="967" uly="1267" lrx="1018" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_643_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_643_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_643_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_643_4+"/>
+                        </zone>
+                        <zone type="word" ulx="1044" uly="1267" lrx="1130" lry="1370" xml:id="zone-word_w_mss-dates_644" change="#auto" points="1044,1267 1045,1271 1043,1277 1043,1281 1043,1286 1045,1299 1044,1304 1046,1308 1045,1311 1044,1315 1045,1318 1046,1325 1046,1329 1046,1332 1043,1335 1045,1338 1045,1342 1042,1355 1044,1359 1044,1363 1044,1366 1044,1370 1130,1370 1130,1368 1129,1365 1129,1360 1131,1357 1130,1353 1129,1350 1129,1346 1130,1342 1132,1338 1130,1334 1129,1330 1129,1327 1129,1323 1129,1319 1131,1316 1131,1313 1130,1309 1129,1306 1130,1303 1127,1297 1129,1291 1129,1287 1131,1283 1131,1280 1131,1274 1130,1267">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_644_1" ulx="1044" uly="1267" lrx="1087" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_644_2" ulx="1071" uly="1267" lrx="1130" lry="1370"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_644_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_644_2+"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_IRHT_P_005468_1-14" ulx="227" uly="1361" lrx="1221" lry="1462" change="#auto">
+                        <zone type="word" ulx="227" uly="1361" lrx="406" lry="1462" xml:id="zone-word_w_mss-dates_645" change="#auto" points="227,1361 226,1363 226,1379 226,1386 227,1389 224,1400 221,1407 226,1415 225,1418 227,1421 227,1424 225,1428 227,1437 226,1450 229,1456 227,1459 227,1462 406,1462 407,1458 404,1453 404,1450 406,1442 406,1437 405,1433 405,1429 405,1426 405,1413 406,1408 408,1404 406,1400 405,1397 405,1383 406,1376 405,1373 405,1370 406,1361">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_645_1" ulx="227" uly="1361" lrx="292" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_645_2" ulx="276" uly="1361" lrx="330" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_645_3" ulx="314" uly="1361" lrx="371" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_645_4" ulx="355" uly="1361" lrx="406" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_645_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_645_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_645_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_645_4+"/>
+                        </zone>
+                        <zone type="word" ulx="408" uly="1361" lrx="618" lry="1462" xml:id="zone-word_w_mss-dates_646" change="#auto" points="408,1361 408,1363 407,1376 408,1379 407,1394 409,1399 407,1405 407,1410 410,1417 406,1424 404,1430 408,1438 406,1441 408,1445 407,1456 406,1460 408,1462 618,1462 617,1459 617,1445 618,1442 616,1438 620,1430 620,1426 617,1419 613,1414 613,1410 618,1404 615,1398 615,1395 618,1391 616,1387 617,1383 617,1379 618,1361">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_646_1" ulx="408" uly="1361" lrx="455" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_646_2" ulx="439" uly="1361" lrx="489" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_646_3" ulx="473" uly="1361" lrx="512" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_646_4" ulx="495" uly="1361" lrx="534" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_646_5" ulx="518" uly="1361" lrx="557" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_646_6" ulx="541" uly="1361" lrx="584" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_646_7" ulx="567" uly="1361" lrx="618" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_646_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_646_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_646_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_646_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_646_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_646_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_646_7+"/>
+                        </zone>
+                        <zone type="word" ulx="617" uly="1361" lrx="739" lry="1462" xml:id="zone-word_w_mss-dates_647" change="#auto" points="617,1361 618,1363 618,1371 616,1375 617,1378 616,1388 617,1392 615,1395 615,1398 617,1405 613,1410 613,1414 617,1419 615,1422 615,1426 616,1429 617,1433 616,1437 617,1440 617,1444 617,1462 739,1462 739,1456 740,1451 738,1437 738,1434 739,1428 731,1418 732,1414 736,1407 740,1399 740,1377 738,1372 738,1369 739,1366 739,1363 739,1361">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_647_1" ulx="617" uly="1361" lrx="659" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_647_2" ulx="643" uly="1361" lrx="697" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_647_3" ulx="681" uly="1361" lrx="739" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_647_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_647_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_647_3+"/>
+                        </zone>
+                        <zone type="word" ulx="753" uly="1361" lrx="940" lry="1462" xml:id="zone-word_w_mss-dates_648" change="#auto" points="753,1361 752,1370 754,1375 752,1388 752,1397 753,1400 755,1410 755,1414 753,1419 753,1423 752,1427 754,1430 754,1435 752,1449 754,1456 754,1459 753,1462 940,1462 940,1460 939,1457 940,1444 938,1440 936,1433 934,1429 935,1424 940,1417 939,1414 939,1407 939,1390 941,1380 941,1372 940,1361">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_648_1" ulx="753" uly="1361" lrx="807" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_648_2" ulx="791" uly="1361" lrx="852" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_648_3" ulx="836" uly="1361" lrx="879" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_648_4" ulx="863" uly="1361" lrx="940" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_648_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_648_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_648_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_648_4+"/>
+                        </zone>
+                        <zone type="word" ulx="931" uly="1361" lrx="1190" lry="1462" xml:id="zone-word_w_mss-dates_649" change="#auto" points="931,1361 930,1363 930,1369 930,1372 932,1400 934,1404 935,1408 933,1411 931,1419 934,1429 931,1441 931,1462 1190,1462 1191,1452 1189,1444 1190,1438 1190,1431 1190,1426 1192,1422 1189,1419 1189,1413 1191,1408 1189,1405 1189,1401 1189,1396 1190,1389 1192,1385 1189,1380 1189,1376 1190,1372 1194,1368 1193,1365 1190,1361">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_649_1" ulx="931" uly="1361" lrx="985" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_649_2" ulx="969" uly="1361" lrx="1015" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_649_3" ulx="999" uly="1361" lrx="1076" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_649_4" ulx="1060" uly="1361" lrx="1114" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_649_5" ulx="1098" uly="1361" lrx="1144" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_649_6" ulx="1128" uly="1361" lrx="1190" lry="1462"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_649_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_649_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_649_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_649_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_649_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_649_6+"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_IRHT_P_005468_1-15" ulx="226" uly="1477" lrx="1136" lry="1546" change="#auto">
+                        <zone type="word" ulx="228" uly="1477" lrx="527" lry="1546" xml:id="zone-word_w_mss-dates_650" change="#auto" points="228,1477 220,1486 222,1490 223,1495 223,1498 224,1505 224,1508 221,1514 224,1518 223,1522 222,1525 224,1529 227,1536 228,1540 228,1544 228,1546 527,1546 528,1543 526,1539 526,1536 527,1532 529,1529 529,1524 528,1520 526,1517 526,1513 527,1510 528,1506 526,1499 526,1492 526,1482 526,1479 527,1477">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_1" ulx="228" uly="1477" lrx="268" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_2" ulx="257" uly="1477" lrx="294" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_3" ulx="282" uly="1477" lrx="330" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_4" ulx="319" uly="1477" lrx="356" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_5" ulx="345" uly="1477" lrx="392" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_6" ulx="381" uly="1477" lrx="413" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_7" ulx="401" uly="1477" lrx="444" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_8" ulx="433" uly="1477" lrx="465" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_9" ulx="453" uly="1477" lrx="485" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_10" ulx="474" uly="1477" lrx="509" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_11" ulx="497" uly="1477" lrx="527" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_7+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_8+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_9+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_10+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_650_11+"/>
+                        </zone>
+                        <zone type="word" ulx="546" uly="1477" lrx="791" lry="1546" xml:id="zone-word_w_mss-dates_651" change="#auto" points="546,1477 547,1479 545,1486 548,1490 546,1493 546,1496 545,1500 545,1505 547,1511 547,1514 547,1529 545,1538 545,1543 546,1546 791,1546 792,1545 791,1542 795,1537 791,1531 791,1525 792,1519 792,1516 794,1513 790,1505 790,1482 791,1477">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_651_1" ulx="546" uly="1477" lrx="594" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_651_2" ulx="583" uly="1477" lrx="633" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_651_3" ulx="621" uly="1477" lrx="659" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_651_4" ulx="647" uly="1477" lrx="695" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_651_5" ulx="683" uly="1477" lrx="731" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_651_6" ulx="720" uly="1477" lrx="791" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_651_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_651_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_651_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_651_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_651_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_651_6+"/>
+                        </zone>
+                        <zone type="word" ulx="800" uly="1477" lrx="938" lry="1546" xml:id="zone-word_w_mss-dates_652" change="#auto" points="800,1477 799,1486 799,1504 800,1507 799,1523 800,1526 800,1546 938,1546 938,1539 941,1530 937,1525 938,1519 939,1513 939,1503 937,1494 939,1491 937,1485 938,1477">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_652_1" ulx="800" uly="1477" lrx="835" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_652_2" ulx="823" uly="1477" lrx="879" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_652_3" ulx="867" uly="1477" lrx="938" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_652_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_652_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_652_3+"/>
+                        </zone>
+                        <zone type="word" ulx="945" uly="1477" lrx="1109" lry="1546" xml:id="zone-word_w_mss-dates_653" change="#auto" points="945,1477 946,1480 944,1484 945,1487 945,1490 944,1519 945,1524 946,1536 945,1539 945,1546 1109,1546 1117,1537 1117,1533 1109,1525 1110,1521 1110,1508 1109,1505 1108,1501 1107,1498 1108,1491 1108,1482 1108,1479 1109,1477">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_653_1" ulx="945" uly="1477" lrx="982" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_653_2" ulx="971" uly="1477" lrx="1018" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_653_3" ulx="1007" uly="1477" lrx="1039" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_653_4" ulx="1028" uly="1477" lrx="1065" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_653_5" ulx="1054" uly="1477" lrx="1109" lry="1546"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_653_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_653_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_653_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_653_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_653_5+"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_IRHT_P_005468_1-16" ulx="221" uly="1576" lrx="1186" lry="1668" change="#auto">
+                        <zone type="word" ulx="221" uly="1576" lrx="391" lry="1668" xml:id="zone-word_w_mss-dates_654" change="#auto" points="221,1576 220,1588 222,1603 219,1606 222,1611 220,1615 220,1621 220,1629 222,1634 220,1640 221,1647 214,1661 221,1668 391,1668 390,1658 392,1652 390,1641 390,1625 392,1618 391,1614 389,1610 390,1596 391,1576">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_654_1" ulx="221" uly="1576" lrx="270" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_654_2" ulx="255" uly="1576" lrx="290" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_654_3" ulx="276" uly="1576" lrx="322" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_654_4" ulx="307" uly="1576" lrx="363" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_654_5" ulx="348" uly="1576" lrx="391" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_654_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_654_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_654_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_654_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_654_5+"/>
+                        </zone>
+                        <zone type="word" ulx="400" uly="1576" lrx="484" lry="1668" xml:id="zone-word_w_mss-dates_655" change="#auto" points="400,1576 401,1578 401,1582 400,1585 401,1591 399,1594 399,1602 401,1613 399,1617 400,1621 399,1629 399,1633 398,1638 401,1644 399,1655 400,1658 400,1661 399,1667 400,1668 484,1668 483,1667 485,1661 483,1651 484,1645 485,1642 485,1638 484,1635 486,1631 483,1622 485,1615 483,1599 485,1588 484,1576">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_655_1" ulx="400" uly="1576" lrx="446" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_655_2" ulx="431" uly="1576" lrx="484" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_655_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_655_2+"/>
+                        </zone>
+                        <zone type="word" ulx="483" uly="1576" lrx="694" lry="1668" xml:id="zone-word_w_mss-dates_656" change="#auto" points="483,1576 482,1578 482,1581 485,1588 483,1592 482,1598 482,1610 481,1613 483,1618 482,1624 482,1632 485,1638 482,1643 483,1646 482,1658 484,1663 484,1666 483,1668 694,1668 694,1665 694,1662 696,1658 693,1654 695,1651 693,1646 694,1643 696,1636 694,1630 696,1626 695,1622 693,1616 695,1612 693,1607 693,1602 693,1596 694,1576">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_656_1" ulx="483" uly="1576" lrx="546" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_656_2" ulx="531" uly="1576" lrx="566" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_656_3" ulx="552" uly="1576" lrx="601" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_656_4" ulx="586" uly="1576" lrx="629" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_656_5" ulx="614" uly="1576" lrx="656" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_656_6" ulx="641" uly="1576" lrx="694" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_656_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_656_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_656_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_656_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_656_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_656_6+"/>
+                        </zone>
+                        <zone type="word" ulx="731" uly="1576" lrx="894" lry="1668" xml:id="zone-word_w_mss-dates_657" change="#auto" points="731,1576 730,1581 732,1585 730,1602 732,1610 730,1615 730,1624 732,1627 729,1631 731,1635 730,1643 731,1647 729,1650 731,1654 731,1668 894,1668 893,1663 894,1646 892,1642 898,1631 898,1628 897,1623 894,1616 894,1613 893,1608 895,1589 894,1576">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_657_1" ulx="731" uly="1576" lrx="770" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_657_2" ulx="755" uly="1576" lrx="805" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_657_3" ulx="790" uly="1576" lrx="829" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_657_4" ulx="814" uly="1576" lrx="856" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_657_5" ulx="842" uly="1576" lrx="894" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_657_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_657_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_657_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_657_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_657_5+"/>
+                        </zone>
+                        <zone type="word" ulx="897" uly="1576" lrx="977" lry="1668" xml:id="zone-word_w_mss-dates_658" change="#auto" points="897,1576 897,1578 896,1581 896,1593 896,1601 897,1604 898,1608 898,1616 897,1620 898,1628 898,1631 896,1639 896,1647 897,1651 896,1661 897,1664 897,1668 977,1668 977,1654 977,1651 980,1646 980,1640 977,1636 976,1633 976,1630 976,1623 976,1612 976,1609 976,1593 976,1590 978,1587 978,1582 977,1576">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_658_1" ulx="897" uly="1576" lrx="939" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_658_2" ulx="924" uly="1576" lrx="977" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_658_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_658_2+"/>
+                        </zone>
+                        <zone type="word" ulx="976" uly="1576" lrx="1163" lry="1668" xml:id="zone-word_w_mss-dates_659" change="#auto" points="976,1576 977,1579 975,1587 975,1591 975,1598 975,1604 976,1607 975,1633 980,1646 975,1654 975,1667 976,1668 1163,1668 1163,1645 1163,1641 1160,1637 1164,1632 1162,1629 1162,1611 1162,1606 1163,1592 1166,1588 1164,1584 1163,1576">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_659_1" ulx="976" uly="1576" lrx="1012" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_659_2" ulx="997" uly="1576" lrx="1050" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_659_3" ulx="1035" uly="1576" lrx="1074" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_659_4" ulx="1059" uly="1576" lrx="1112" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_659_5" ulx="1097" uly="1576" lrx="1139" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_659_6" ulx="1124" uly="1576" lrx="1163" lry="1668"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_659_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_659_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_659_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_659_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_659_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_659_6+"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_IRHT_P_005468_1-17" ulx="227" uly="1684" lrx="1129" lry="1799" change="#auto">
+                        <zone type="word" ulx="227" uly="1684" lrx="391" lry="1799" xml:id="zone-word_w_mss-dates_660" change="#auto" points="227,1684 223,1689 221,1693 223,1701 224,1709 226,1714 224,1718 224,1721 226,1725 224,1732 221,1738 222,1741 224,1746 228,1752 225,1757 227,1761 226,1768 228,1771 226,1777 226,1781 226,1785 226,1798 227,1799 391,1799 390,1787 391,1784 390,1780 390,1774 392,1769 391,1766 390,1762 389,1759 391,1756 391,1753 389,1748 390,1745 389,1742 391,1737 392,1733 391,1727 388,1723 389,1719 390,1714 391,1702 392,1699 390,1696 391,1684">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_660_1" ulx="227" uly="1684" lrx="275" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_660_2" ulx="257" uly="1684" lrx="314" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_660_3" ulx="296" uly="1684" lrx="353" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_660_4" ulx="334" uly="1684" lrx="391" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_660_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_660_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_660_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_660_4+"/>
+                        </zone>
+                        <zone type="word" ulx="382" uly="1684" lrx="503" lry="1799" xml:id="zone-word_w_mss-dates_661" change="#auto" points="382,1684 383,1687 380,1695 382,1699 383,1704 382,1707 379,1712 382,1717 382,1722 383,1726 379,1730 388,1741 382,1751 381,1757 383,1760 381,1764 383,1770 383,1786 382,1790 381,1798 382,1799 503,1799 505,1797 502,1790 504,1783 506,1779 502,1772 503,1768 503,1764 502,1755 504,1751 504,1746 504,1740 503,1729 501,1724 504,1719 505,1716 504,1711 502,1699 503,1684">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_661_1" ulx="382" uly="1684" lrx="430" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_661_2" ulx="412" uly="1684" lrx="460" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_661_3" ulx="442" uly="1684" lrx="503" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_661_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_661_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_661_3+"/>
+                        </zone>
+                        <zone type="word" ulx="498" uly="1684" lrx="603" lry="1799" xml:id="zone-word_w_mss-dates_662" change="#auto" points="498,1684 499,1691 497,1700 499,1705 497,1708 497,1711 499,1716 497,1719 497,1739 496,1751 498,1755 497,1758 497,1770 496,1783 496,1786 498,1789 498,1794 498,1799 603,1799 606,1794 603,1788 606,1782 605,1777 604,1773 603,1758 594,1744 594,1740 591,1737 593,1730 609,1711 602,1699 602,1693 602,1687 603,1684">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_662_1" ulx="498" uly="1684" lrx="547" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_662_2" ulx="528" uly="1684" lrx="577" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_662_3" ulx="559" uly="1684" lrx="603" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_662_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_662_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_662_3+"/>
+                        </zone>
+                        <zone type="word" ulx="593" uly="1684" lrx="715" lry="1799" xml:id="zone-word_w_mss-dates_663" change="#auto" points="593,1684 592,1690 594,1696 583,1708 586,1713 589,1720 592,1728 593,1732 591,1737 593,1741 593,1745 594,1758 594,1762 594,1767 604,1778 606,1782 602,1789 593,1799 715,1799 713,1797 716,1789 715,1785 709,1775 707,1771 708,1764 714,1753 714,1749 715,1746 716,1742 717,1737 716,1733 713,1727 714,1722 717,1719 715,1715 714,1711 714,1697 714,1687 715,1684">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_663_1" ulx="593" uly="1684" lrx="646" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_663_2" ulx="628" uly="1684" lrx="689" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_663_3" ulx="671" uly="1684" lrx="715" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_663_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_663_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_663_3+"/>
+                        </zone>
+                        <zone type="word" ulx="714" uly="1684" lrx="892" lry="1799" xml:id="zone-word_w_mss-dates_664" change="#auto" points="714,1684 715,1702 713,1707 712,1712 714,1716 715,1720 715,1724 713,1727 712,1732 718,1739 714,1747 715,1751 712,1760 708,1764 707,1771 709,1775 715,1785 713,1789 713,1798 714,1799 892,1799 891,1796 891,1785 893,1776 893,1773 891,1769 893,1750 891,1745 892,1741 890,1735 892,1731 892,1725 891,1721 891,1716 892,1706 893,1702 892,1684">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_664_1" ulx="714" uly="1684" lrx="767" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_664_2" ulx="748" uly="1684" lrx="797" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_664_3" ulx="779" uly="1684" lrx="836" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_664_4" ulx="817" uly="1684" lrx="892" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_664_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_664_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_664_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_664_4+"/>
+                        </zone>
+                        <zone type="word" ulx="891" uly="1684" lrx="1124" lry="1799" xml:id="zone-word_w_mss-dates_665" change="#auto" points="891,1684 890,1702 890,1714 890,1725 890,1735 890,1740 891,1743 892,1749 890,1766 893,1772 890,1775 892,1780 890,1788 892,1795 891,1799 1124,1799 1124,1762 1124,1758 1126,1754 1125,1751 1124,1739 1117,1727 1123,1720 1124,1684">
+                            <zone type="character" xml:id="zone-c_w_mss-dates_665_1" ulx="891" uly="1684" lrx="948" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_665_2" ulx="929" uly="1684" lrx="974" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_665_3" ulx="955" uly="1684" lrx="1017" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_665_4" ulx="998" uly="1684" lrx="1047" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_665_5" ulx="1029" uly="1684" lrx="1073" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_665_6" ulx="1055" uly="1684" lrx="1099" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_665_7" ulx="1080" uly="1684" lrx="1124" lry="1799"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_665_1+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_665_2+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_665_3+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_665_4+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_665_5+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_665_6+"/>
+                            <zone type="character" xml:id="zone-c_w_mss-dates_665_7+"/>
+                        </zone>
+                    </zone>
+                </zone>
+            </zone>
+        </surface>
+    </facsimile>
+</TEI>
